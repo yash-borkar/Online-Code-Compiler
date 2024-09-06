@@ -13,13 +13,13 @@ CompileSpace is an innovative online coding platform developed for the "Code Bre
    <table>
      <tr>
        <td>
-         <img src="demo_images/home.png" alt="Project Home page" width="400">
+         <img src="Demo Images/home.png" alt="Project Home page" width="400">
        </td>
        <td>
-         <img src="demo_images/playground.png" alt="Code Playground" width="400">
+         <img src="Demo Images/playground.png" alt="Code Playground" width="400">
        </td>
        <td>
-         <img src="demo_images/coding_arena.png" alt="Code Arena" width="400">
+         <img src="Demo Images/coding_arena.png" alt="Code Arena" width="400">
        </td>
      </tr>
      <tr>
@@ -29,13 +29,13 @@ CompileSpace is an innovative online coding platform developed for the "Code Bre
      </tr>
      <tr>
        <td>
-         <img src="demo_images/battleground.png" alt="Code Battleground" width="400">
+         <img src="Demo Images/battleground.png" alt="Code Battleground" width="400">
        </td>
        <td>
-         <img src="demo_images/battleground_problems.png" alt="Battleground Problems" width="400">
+         <img src="Demo Images/battleground_problems.png" alt="Battleground Problems" width="400">
        </td>
        <td>
-         <img src="demo_images/add_problem.png" alt="Add Problem" width="400">
+         <img src="Demo Images/add_problem.png" alt="Add Problem" width="400">
        </td>
      </tr>
      <tr>
