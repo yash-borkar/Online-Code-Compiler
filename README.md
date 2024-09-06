@@ -146,41 +146,6 @@ We welcome contributions to improve CompileSpace! To contribute, please follow t
 
 Thank you for contributing to CompileSpace!
 
-## 🔮 Future Scopes
-#### We plan to enhance CompileSpace with additional features and improvements, including
-   - Security Enhancements: Utilizing Docker and Kubernetes to containerize all compilers and the
-     Flask application for improved security and scalability.
-   - Multi-Language Support: Adding support for multiple programming languages to cater to a broader
-      audience.
-   - Advanced Analytics: Implementing features to analyze user performance and provide personalized recommendations.
-   - Enhanced UI/UX: Continuously refining the user interface and experience based on user feedback.
-   - Sandbox Environment: Creating a secure sandbox environment for running user code to prevent potential security risks and ensure isolated execution.
-
-## Containerizing the web application in Docker 
-   #### Follow below commands
-   # compiler_exec_from_docker
- - Inside compiler_exec_from_docker (folder)
- - use this folder for docker deployment
-docker container exec for multiple isolated compilers to execute in flask application
-
-### check for running services in docker ( cmd utils )
-```
-docker ps # to check running process
-```
-#### before building container ensure to clear other services
-```
-docker-compose down
-```
-#### inside compiler_exec that is root folder exec following command
-```
-docker-compose up --build
-```
-### you can see the " 2 " server ( localhost / bridge network)
-```
-click  on those server links and try the 3 compilers and hit run :)
-```
-
-
 ## 👥 Contributors
 - Kartikey Sapkal : https://www.linkedin.com/in/kartikey-sapkal-316822248/
 - Prathamesh Kapadne : https://www.linkedin.com/in/prathamesh-kapadne-a1b573219/
